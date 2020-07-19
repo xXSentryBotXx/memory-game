@@ -1,0 +1,23 @@
+{
+  "name": "memory-game",
+  "version": "0.1.0",
+  "description": "MEmory game built in Javascript using canvas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xXSentryBotXx/memory-game.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Canvas"
+  ],
+  "author": "Luis Davila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xXSentryBotXx/memory-game/issues"
+  },
+  "homepage": "https://github.com/xXSentryBotXx/memory-game#readme"
+}
